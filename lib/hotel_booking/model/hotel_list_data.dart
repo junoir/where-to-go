@@ -21,7 +21,7 @@ class HotelListData {
     HotelListData(
       imagePath: 'assets/hotel/hotel_1.png',
       titleTxt: 'Grand Royal Hotel',
-      subTxt: 'Wembley, London',
+      subTxt: 'Umhlanga, Durban',
       dist: 2.0,
       reviews: 80,
       rating: 4.4,
@@ -30,7 +30,7 @@ class HotelListData {
     HotelListData(
       imagePath: 'assets/hotel/hotel_2.png',
       titleTxt: 'Queen Hotel',
-      subTxt: 'Wembley, London',
+      subTxt: 'Umhlanga Rocks, Durban',
       dist: 4.0,
       reviews: 74,
       rating: 4.5,
@@ -39,7 +39,7 @@ class HotelListData {
     HotelListData(
       imagePath: 'assets/hotel/hotel_3.png',
       titleTxt: 'Grand Royal Hotel',
-      subTxt: 'Wembley, London',
+      subTxt: 'La Lucia, Durban',
       dist: 3.0,
       reviews: 62,
       rating: 4.0,

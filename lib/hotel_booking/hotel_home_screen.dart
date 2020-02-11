@@ -352,7 +352,7 @@ class _HotelHomeScreenState extends State<HotelHomeScreen>
                     cursorColor: HotelAppTheme.buildLightTheme().primaryColor,
                     decoration: InputDecoration(
                       border: InputBorder.none,
-                      hintText: 'London...',
+                      hintText: 'Durban...',
                     ),
                   ),
                 ),
